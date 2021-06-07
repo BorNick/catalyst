@@ -23,7 +23,26 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 -
 
 
-## [21.05] - YYYY-MM-DD
+## [21.06] - YYYY-MM-DD
+
+### Added
+
+- `dataset_from_params` support in config API ([#1231](https://github.com/catalyst-team/catalyst/pull/1231))
+
+### Changed
+
+-
+
+### Removed
+
+-
+
+### Fixed
+
+-
+
+
+## [21.05] - 2021-05-31
 
 ### Added
 
